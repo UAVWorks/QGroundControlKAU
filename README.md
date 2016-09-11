@@ -1,4 +1,6 @@
 # QGroundControl Ground Control Station
+# Korea Aerospace University
+# Unmanned Systems Control Lab
 ## Open Source Micro Air Vehicle Ground Control Station
 
 [![Releases](https://img.shields.io/github/release/mavlink/QGroundControl.svg)](https://github.com/mavlink/QGroundControl/releases)
@@ -8,6 +10,10 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mavlink/qgroundcontrol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The license terms are set in the COPYING.md file.
+
+This GIT is for Korea Aerospace Universiry
+This includes lots of modification for QGroundControl From the Original Version
+The user should be cautious to clone this, since it may be different from the original one.
 
 * Project:
 <http://qgroundcontrol.org>
